@@ -1,0 +1,123 @@
+.chart_page-circle_diagram {
+  display: flex;
+  flex-direction: row;
+  margin-left: 80px;
+}
+.chart_page-header {
+  display: flex;
+  flex-direction: row;
+}
+.chart_page-header-text {
+  display: flex;
+  flex-direction: column;
+}
+.chart_page-header-text h1 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32.78px;
+  color: black;
+  margin-top: 52px;
+  margin-left: 127px;
+  text-align: left;
+}
+.chart_page-header-text h4 {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.59px;
+  color: #64748b;
+  margin-top: 8px;
+  margin-left: 127px;
+  text-align: left;
+}
+.chart_page-header-button {
+  margin-top: 76px;
+  margin-left: 468px;
+}
+.chart_page-divider {
+  margin: 32px 0 58px 127px;
+  width: 819px;
+}
+.chart_page-data {
+  display: flex;
+  flex-direction: row;
+  margin-left: 127px;
+}
+.chart_page-data-divider {
+  display: flex;
+  flex-direction: row;
+  /* margin-left: 127px; */
+  margin-top: 58px;
+  margin-right: 41px;
+}
+.chart_page-data h3 {
+  font-size: 16px;
+  font-weight: 400;
+  color: #64748b;
+  text-align: left;
+  margin-left: 4px;
+}
+.chart_page-data h1 {
+  color: #191d23;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 30.05px;
+  margin-left: 4px;
+}
+.chart_page-data h4 {
+  color: #047857;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 21.86px;
+  margin-left: 24px;
+  margin-top: 6px;
+}
+.chart_page-data-percentage {
+  display: flex;
+  flex-direction: row;
+}
+.chart_page-data-button {
+  margin-top: 40px;
+  margin-left: 106px;
+}
+.chart_page-data-button input {
+  width: 215px;
+  height: 40px;
+}
+.chart_page-data-button input::placeholder {
+  padding-left: 8px;
+}
+.chart_page-data-button-click {
+  display: flex;
+  flex-direction: row;
+  margin-top: 12px;
+  margin-left: 15px;
+}
+.chart_page-data-button select {
+  background-color: #e7eaee;
+  width: 101.5px;
+  height: 36px;
+  border-radius: 3px;
+  border-color: #e7eaee;
+  color: #64748b;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 19.12px;
+  margin-right: 15px;
+}
+.chart_page-data-button button {
+  background-color: #e7eaee;
+  width: 101.5px;
+  height: 36px;
+  display: flex;
+  flex-direction: row;
+  border-radius: 3px;
+  color: #64748b;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 19.12px;
+}
+.chart_page-vertical_diagram {
+  margin-left: 127px;
+  margin-top: 32px;
+  width: 819px;
+}

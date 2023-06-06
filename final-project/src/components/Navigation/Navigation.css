@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.nav-list {
+  display: flex;
+  flex-direction: row;
+}
+.navigation {
+  width: 270px;
+  height: 2880px;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  background-color: #007155;
+}
+.navigation-main-img img {
+  width: 146px;
+  height: 146px;
+  margin-top: 58px;
+}
+.navigation-list {
+  margin-left: 25px;
+  font-size: 24px;
+  color: white;
+  font-weight: 400;
+  line-height: 28.13px;
+  margin-top: 77px;
+}
+.navigation-list td {
+  padding-right: 33px;
+  padding-bottom: 50px;
+}
+.link {
+  color: white;
+}
